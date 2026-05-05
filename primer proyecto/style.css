@@ -1,0 +1,31 @@
+img {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+
+}
+
+
+footer {
+    width: 100%;
+    text-align: center;
+    font-size: 80%;
+}
+
+nav {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+nav a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+form {
+    text-align: center;
+    margin-bottom: 20px;
+}
